@@ -29,10 +29,18 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>NSCameraUsageDescription</key>
-	<string>cameraDesciption</string>
+	<string>In order for participants to see you, requires access to your camera.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>microphoneDesciption</string>
+	<string>In order to speak to participants, requires access to your microphone.</string>
 	<key>NSAppleEventsUsageDescription</key>
-	<string>eventsDescription</string>
+	<string>Required for screen sharing functionality.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Required for calendar integration.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Required for contacts integration.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Required for location services.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Required for Bluetooth audio devices.</string>
 </dict>
 </plist>

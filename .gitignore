@@ -46,3 +46,4 @@ app.*.map.json
 
 /ZoomSDK
 /macos/Runner/Zoom
+/ZoomSDKSample
